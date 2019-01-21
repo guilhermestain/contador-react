@@ -1,0 +1,21 @@
+.buttonDec{
+  padding: 6px 14px;
+  border-radius: 7px;
+  background: darkred;
+  margin-left: 35%;
+}
+.buttonInc{
+  padding: 6px 14px;
+  border-radius: 7px;
+  background: darkblue;
+  margin-left:15%;
+}
+.contador{
+  text-align: center;
+  margin-bottom: 40px;
+}
+.numero{
+  text-align:center;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
